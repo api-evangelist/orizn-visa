@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://visa.orizn.app
 common:
+  - type: DomainSecurity
+    url: security/orizn-visa-domain-security.yml
   - type: Website
     url: https://visa.orizn.app
   - type: PublicAPIsListing
