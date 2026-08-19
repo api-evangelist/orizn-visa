@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/orizn-visa
 name: Orizn Visa
 description: "Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages"
 url: https://visa.orizn.app
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
