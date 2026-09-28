@@ -16,6 +16,10 @@ deployment:
 tools_count: 1
 tools:
 - name: quick_visa_check
-  description: ''
+  description: Does this passport need a visa for this destination? Returns the requirement, the number
+    of visa-free days, and — when that exact pair has been individually re-verified — the date it was.
+    One pair per call, English only. Keyless and free. F
 tools_source: live tools/list via initialize handshake, 2026-09-12 (signals/audit_mcp_authorship.py --probe)
 authorship: provider
+descriptions_source: live tools/list (authorship probe or saved capture); filled by backfill-tools-from-authorship.py
+  --descriptions, 2026-09-28
