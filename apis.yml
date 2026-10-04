@@ -39,7 +39,6 @@ apis:
   - name: Orizn Visa
     description: "Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages"
     humanURL: https://visa.orizn.app
-    baseURL: https://visa.orizn.app
     tags:
       - Transportation
     properties:
